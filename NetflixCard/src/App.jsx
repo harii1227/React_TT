@@ -1,14 +1,14 @@
-import {Netflixseries , Footer} from "./Components/NeflixSeries";
+import Netflixseries  from "./Components/NeflixSeries";
 const App = () => {
   return (
     <>
       <Netflixseries />
+      {/* <Netflixseries />
       <Netflixseries />
       <Netflixseries />
       <Netflixseries />
-      <Netflixseries />
-      <Netflixseries />
-      <Footer />
+      <Netflixseries /> */}
+      
     </>
   )
 }

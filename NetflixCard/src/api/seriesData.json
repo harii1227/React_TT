@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Inception",
+    "id": "inception",
+    "img_url": "/src/pexels-mikebirdy-170811.jpg",
+    "rating": "9.0",
+    "description": "A skilled thief is given a chance at redemption if he can successfully perform an inception — planting an idea into someone’s subconscious.",
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+    "genre": ["Sci-Fi", "Thriller", "Action"],
+    "watch_url": "https://www.netflix.com/title/70131314"
+  },
+  {
+    "name": "Breaking Bad",
+    "id": "breaking-bad",
+    "img_url": "/src/pexels-mikebirdy-170811.jpg",
+    "rating": "9.5",
+    "description": "A chemistry teacher turned methamphetamine producer partners with a former student to secure his family’s future.",
+    "cast": ["Bryan Cranston", "Aaron Paul", "Anna Gunn"],
+    "genre": ["Crime", "Drama", "Thriller"],
+    "watch_url": "https://www.netflix.com/title/70143836"
+  },
+  {
+    "name": "Money Heist",
+    "id": "money-heist",
+    "img_url": "/src/pexels-mikebirdy-170811.jpg",
+    "rating": "8.3",
+    "description": "A group of robbers, led by the mysterious Professor, plan and execute the biggest heist in Spanish history.",
+    "cast": ["Álvaro Morte", "Úrsula Corberó", "Itziar Ituño"],
+    "genre": ["Crime", "Drama", "Thriller"],
+    "watch_url": "https://www.netflix.com/title/80192098"
+  },
+  {
+    "name": "The Witcher",
+    "id": "the-witcher",
+    "img_url": "/src/pexels-mikebirdy-170811.jpg",
+    "rating": "8.1",
+    "description": "Geralt of Rivia, a monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+    "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+    "genre": ["Fantasy", "Action", "Adventure"],
+    "watch_url": "https://www.netflix.com/title/80189685"
+  },
+  {
+    "name": "The Dark Knight",
+    "id": "the-dark-knight",
+    "img_url": "/src/pexels-mikebirdy-170811.jpg",
+    "rating": "9.1",
+    "description": "Batman faces his greatest psychological and physical challenge when the Joker wreaks havoc on Gotham City.",
+    "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+    "genre": ["Action", "Crime", "Drama"],
+    "watch_url": "https://www.max.com/movies/the-dark-knight"
+  }
+]
